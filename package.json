@@ -34,6 +34,9 @@
         "popper.js": "1.12.3",
         "scrollreveal": "3.3.6"
     },
+    "scripts": {
+    "start": "node your-script.js"
+    },
     "devDependencies": {
         "browser-sync": "2.18.13",
         "gulp": "^3.9.1",
